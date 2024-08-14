@@ -1,0 +1,16 @@
+azure-functions
+openai
+python-dotenv
+azure-keyvault-secrets
+azure-ai-formrecognizer
+azure-identity
+azure-storage-blob
+psycopg2-binary
+sqlalchemy
+atlassian-python-api
+pdfx
+PyMuPDF
+pypdf
+argparse
+llama-index-core
+ragas
